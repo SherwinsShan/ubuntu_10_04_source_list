@@ -1,4 +1,4 @@
-Ubuntu¹Ù·½×¨ÃÅ³öÁËÒ»¸ö old-releaseµÄ[¾µÏñ](http://old-releases.ubuntu.com/)
+Ubuntuå®˜æ–¹ä¸“é—¨å‡ºäº†ä¸€ä¸ª old-releaseçš„[é•œåƒ](http://old-releases.ubuntu.com/)
 
 deb http://old-releases.ubuntu.com/ubuntu/ karmic main restricted universe multiverse
 deb http://old-releases.ubuntu.com/ubuntu/ karmic-security main restricted universe multiverse
@@ -11,27 +11,27 @@ deb-src http://old-releases.ubuntu.com/ubuntu/ karmic-updates main restricted un
 deb-src http://old-releases.ubuntu.com/ubuntu/ karmic-proposed main restricted universe multiverse
 deb-src http://old-releases.ubuntu.com/ubuntu/ karmic-backports main restricted universe multiverse
 
-ÆäËûUbuntu Linux°æ±¾µÄÖ»ĞèÒª½²karmic¸Ä³ÉÆä°æ±¾´úºÅ¼´¿É¡£ÕâÑù¹ıÆÚºóµÄ°æ±¾Ò²¿ÉÒÔ¼ÌĞøÊ¹ÓÃÁË¡£
+å…¶ä»–Ubuntu Linuxç‰ˆæœ¬çš„åªéœ€è¦è®²karmicæ”¹æˆå…¶ç‰ˆæœ¬ä»£å·å³å¯ã€‚è¿™æ ·è¿‡æœŸåçš„ç‰ˆæœ¬ä¹Ÿå¯ä»¥ç»§ç»­ä½¿ç”¨äº†ã€‚
 
 
-###### ÆäÖĞ¸÷°æ±¾´úºÅÎª£º
-4.10 - Warty Wartho ¶àğàµÄğàÖí
-5.04 - Hoary Hedgeh °×·¢µÄ´Ìâ¬
-5.10 - peezy Badger »îÆÃµÄâµ
-6.06 - Dapper Drake Õû½àµÄ¹«Ñ¼
-6.10 - Edgy Eft ¼âÀûµÄĞ¡òáòæ
-7.04 - Feisty Fawn ·³Ôê²»°²µÄĞ¡Â¹
-7.10 - Gutsy Gibbon µ¨´óµÄ³¤±ÛÔ³
-8.04 - Hardy Heron ¼áÇ¿µÄ²ÔğØ
-8.10 - Intrepid Ibex ÎŞÎ·µÄ¸ßµØÉ½Ñò
-9.04 - Jaunty Jackalope »îÆÃµÄÍÃ×Ó
-9.10 - Karmic Koala ĞÒÔËµÄÎŞÎ²ĞÜ
-10.04 - Lucid Lynx ÇåĞÑµÄâ¦áû
-10.10 - Maverick Meerkat ±êĞÂÁ¢ÒìµÄµÄºü«B
-11.04 - Natty Narwhal Ãô½İµÄ¶À½Ç¾¨
-11.10 - Oneiric Ocelot ÓĞÃÎµÄ»¢Ã¨
-12.04 - Precise Pangolin ¾«×¼µÄ´©É½¼×
-13.04 Raring Ringtail¼±ÇĞµÄä½ĞÜ
-14.04 LTSTrusty Tahr ÇÎÆ¤µÄòîó¢
-14.10 Utopic Unicorn ÎÚÍĞ°î¶À½ÇÊŞ
-15.04 Vivid Vervet ³¤Î²ºÚò¦ºï
+###### å…¶ä¸­å„ç‰ˆæœ¬ä»£å·ä¸ºï¼š
+4.10 - Warty Wartho å¤šç–£çš„ç–£çŒª
+5.04 - Hoary Hedgeh ç™½å‘çš„åˆºçŒ¬
+5.10 - peezy Badger æ´»æ³¼çš„ç¾
+6.06 - Dapper Drake æ•´æ´çš„å…¬é¸­
+6.10 - Edgy Eft å°–åˆ©çš„å°èœ¥èœ´
+7.04 - Feisty Fawn çƒ¦èºä¸å®‰çš„å°é¹¿
+7.10 - Gutsy Gibbon èƒ†å¤§çš„é•¿è‡‚çŒ¿
+8.04 - Hardy Heron åšå¼ºçš„è‹é¹­
+8.10 - Intrepid Ibex æ— ç•çš„é«˜åœ°å±±ç¾Š
+9.04 - Jaunty Jackalope æ´»æ³¼çš„å…”å­
+9.10 - Karmic Koala å¹¸è¿çš„æ— å°¾ç†Š
+10.04 - Lucid Lynx æ¸…é†’çš„çŒçŒ
+10.10 - Maverick Meerkat æ ‡æ–°ç«‹å¼‚çš„çš„ç‹ç´
+11.04 - Natty Narwhal æ•æ·çš„ç‹¬è§’é²¸
+11.10 - Oneiric Ocelot æœ‰æ¢¦çš„è™çŒ«
+12.04 - Precise Pangolin ç²¾å‡†çš„ç©¿å±±ç”²
+13.04 Raring Ringtailæ€¥åˆ‡çš„æµ£ç†Š
+14.04 LTSTrusty Tahr ä¿çš®çš„è¾èˆ
+14.10 Utopic Unicorn ä¹Œæ‰˜é‚¦ç‹¬è§’å…½
+15.04 Vivid Vervet é•¿å°¾é»‘é¢šçŒ´
